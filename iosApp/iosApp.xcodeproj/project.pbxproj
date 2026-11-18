@@ -474,12 +474,12 @@
 			buildSettings = {
 				APP_NAME = Pebble;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				BUNDLE_ID = coredevices.coreapp;
+				BUNDLE_ID = com.nabettu.pebbleself;
 				CODE_SIGN_ENTITLEMENTS = iosApp/iosApp.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"iosApp/Preview Content\"";
-				DEVELOPMENT_TEAM = 2KK9392YQN;
+				DEVELOPMENT_TEAM = 2KDR72P2RA;
 				ENABLE_PREVIEWS = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -513,12 +513,12 @@
 			buildSettings = {
 				APP_NAME = Pebble;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				BUNDLE_ID = coredevices.coreapp;
+				BUNDLE_ID = com.nabettu.pebbleself;
 				CODE_SIGN_ENTITLEMENTS = iosApp/iosApp.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"iosApp/Preview Content\"";
-				DEVELOPMENT_TEAM = 2KK9392YQN;
+				DEVELOPMENT_TEAM = 2KDR72P2RA;
 				ENABLE_PREVIEWS = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
